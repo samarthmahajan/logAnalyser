@@ -30,7 +30,7 @@ This Application is used to analyse huge logs and create events in DB by using o
 # How To Run
   1. Clone the project :
     use command : git clone https://github.com/samarthmahajan/logAnalyser.git
-  2. one Cloned use clean install command to create a maven build using .
+  2. once Cloned use clean install command to create a maven build using .
     use comman : mvn clean install .
   3. import the project in and IDE of ur choice, i used STS.
   4. run the project as a Spring boot project .
