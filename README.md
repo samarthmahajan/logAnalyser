@@ -38,4 +38,11 @@ This Application is used to analyse huge logs and create events in DB by using o
     command : curl --location --request GET 'http://localhost:9071/logfile/analyse/event'
     
     or run it http://localhost:9071/logfile/analyse/event in your browser.
+    
+  6. This will be the result :
+       <img width="1064" alt="Screenshot 2022-07-29 at 11 30 03 PM" src="https://user-images.githubusercontent.com/109908227/181823911-d633faf1-67ac-44b5-b7f7-0ec884eb1cfe.png">
+
+  8. these are the logs of the application :
+      <img width="1268" alt="Screenshot 2022-07-29 at 8 29 16 PM" src="https://user-images.githubusercontent.com/109908227/181823736-915ecc69-4910-42bc-b2cc-53018504ccd4.png">
+
    
